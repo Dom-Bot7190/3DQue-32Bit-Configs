@@ -184,3 +184,7 @@ cmake-build-*
 
 #Python
 __pycache__
+
+#Configurations
+Configuration.h
+Configuration_adv.h
