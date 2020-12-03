@@ -6,4 +6,4 @@ Our firmware is based on [Marlin 2.0.x](https://github.com/MarlinFirmware/Marlin
 
 # Find Your Firmware
 
-The main branch of this repository contains the marlin code that is compiled. Tailor it to your printer by finding the appropriate configuration files in the config folder. Move these files to the Marlin folder and rename them to Configuration.h and Configuration_adv.h respectively and you are ready to compile! 
+The main branch of this repository contains the marlin code that is compiled. Tailor it to your printer by finding the appropriate configuration files in the config folder. NP is for the stock endstop configuration (no leveling), IP is for inductive probes, and blt is for ~lunch sandwiches~ BLTouch probes. Move these files to the Marlin folder and rename them to Configuration.h and Configuration_adv.h respectively and you are ready to compile! 
